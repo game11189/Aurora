@@ -1,0 +1,107 @@
+# //  ModelSim SE-64 10.6b May 25 2017Linux 4.15.0-29-generic
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do {aurora_64b66b_0_TB_simulate.do}
+# vsim -voptargs=""+acc"" -L axis_infrastructure_v1_1_0 -L axis_register_slice_v1_1_16 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm -lib xil_defaultlib xil_defaultlib.aurora_64b66b_0_TB xil_defaultlib.glbl 
+# Start time: 15:26:34 on Aug 10,2018
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading work.aurora_64b66b_0_TB(fast)
+# Loading work.delay(fast)
+# Loading work.aurora_64b66b_0_exdes(fast)
+# Loading work.aurora_64b66b_0_rst_sync_exdes(fast)
+# Loading unisims_ver.BUFG(fast)
+# Loading work.aurora_64b66b_0_support(fast)
+# Loading work.aurora_64b66b_0_gt_common_wrapper(fast)
+# Loading unisims_ver.GTXE2_COMMON(fast)
+# Loading unisims_ver.IBUFDS_GTE2(fast)
+# Loading work.aurora_64b66b_0_CLOCK_MODULE(fast)
+# Loading unisims_ver.MMCME2_ADV(fast)
+# Loading unisims_ver.IBUFDS(fast)
+# Loading work.aurora_64b66b_0_SUPPORT_RESET_LOGIC(fast)
+# Loading work.aurora_64b66b_0_rst_sync_shared(fast)
+# Loading work.aurora_64b66b_0(fast)
+# Loading work.aurora_64b66b_0_core(fast)
+# Loading work.aurora_64b66b_0_rst_sync(fast)
+# Loading work.aurora_64b66b_0_RESET_LOGIC(fast)
+# Loading work.aurora_64b66b_0_AURORA_LANE(fast)
+# Loading work.aurora_64b66b_0_LANE_INIT_SM(fast)
+# Loading unisims_ver.SRLC32E(fast)
+# Loading unisims_ver.FDR(fast)
+# Loading unisims_ver.FDRE(fast)
+# Loading work.aurora_64b66b_0_cdc_sync(fast)
+# Loading work.aurora_64b66b_0_SYM_GEN(fast)
+# Loading work.aurora_64b66b_0_SYM_DEC(fast)
+# Loading work.aurora_64b66b_0_ERR_DETECT(fast)
+# Loading work.aurora_64b66b_0_WRAPPER(fast)
+# Loading unisims_ver.BUFGCE(fast)
+# Loading work.aurora_64b66b_0_cdc_sync(fast__1)
+# Loading work.aurora_64b66b_0_TX_STARTUP_FSM(fast)
+# Loading work.aurora_64b66b_0_rst_sync(fast__1)
+# Loading work.aurora_64b66b_0_RX_STARTUP_FSM(fast)
+# Loading work.aurora_64b66b_0_MULTI_GT(fast)
+# Loading work.aurora_64b66b_0_GTX(fast)
+# Loading unisims_ver.GTXE2_CHANNEL(fast)
+# Loading unisims_ver.FD(fast)
+# Loading work.aurora_64b66b_0_common_reset_cbcc(fast)
+# Loading work.aurora_64b66b_0_rst_sync(fast__2)
+# Loading work.aurora_64b66b_0_rst_sync(fast__3)
+# Loading work.aurora_64b66b_0_common_logic_cbcc(fast)
+# Loading work.aurora_64b66b_0_SCRAMBLER_64B66B(fast)
+# Loading work.aurora_64b66b_0_cdc_sync(fast__2)
+# Loading work.aurora_64b66b_0_DESCRAMBLER_64B66B(fast)
+# Loading work.aurora_64b66b_0_BLOCK_SYNC_SM(fast)
+# Loading work.aurora_64b66b_0_CLOCK_CORRECTION_CHANNEL_BONDING(fast)
+# Loading work.aurora_64b66b_0_cdc_sync(fast__3)
+# Loading unisims_ver.FIFO36E1(fast)
+# Loading unisims_ver.FF36_INTERNAL_VLOG(fast)
+# Loading work.aurora_64b66b_0_AXI_TO_DRP(fast)
+# Loading work.aurora_64b66b_0_GLOBAL_LOGIC(fast)
+# Loading work.aurora_64b66b_0_CHANNEL_INIT_SM(fast)
+# Loading unisims_ver.FD(fast__1)
+# Loading unisims_ver.FDRE(fast__1)
+# Loading work.aurora_64b66b_0_CHANNEL_BOND_GEN(fast)
+# Loading work.aurora_64b66b_0_CHANNEL_ERR_DETECT(fast)
+# Loading work.aurora_64b66b_0_AXI_TO_LL(fast)
+# Loading work.aurora_64b66b_0_TX_LL(fast)
+# Loading work.aurora_64b66b_0_TX_LL_DATAPATH(fast)
+# Loading work.aurora_64b66b_0_TX_LL_CONTROL_SM(fast)
+# Loading work.aurora_64b66b_0_LL_TO_AXI(fast)
+# Loading work.aurora_64b66b_0_RX_LL(fast)
+# Loading work.aurora_64b66b_0_RX_LL_DATAPATH(fast)
+# Loading work.aurora_64b66b_0_STANDARD_CC_MODULE(fast)
+# Loading work.aurora_64b66b_0_EXAMPLE_LL_TO_AXI(fast)
+# Loading work.aurora_64b66b_0_reg_slice_0(fast)
+# Loading axis_register_slice_v1_1_16.axis_register_slice_v1_1_16_axis_register_slice(fast)
+# Loading axis_infrastructure_v1_1_0.axis_infrastructure_v1_1_0_util_axis2vector(fast)
+# Loading axis_register_slice_v1_1_16.axis_register_slice_v1_1_16_axisc_register_slice(fast)
+# Loading axis_infrastructure_v1_1_0.axis_infrastructure_v1_1_0_util_vector2axis(fast)
+# Loading work.aurora_64b66b_0_FRAME_GEN(fast)
+# Loading work.aurora_64b66b_0_EXAMPLE_AXI_TO_LL(fast)
+# Loading work.aurora_64b66b_0_reg_slice_2(fast)
+# Loading axis_register_slice_v1_1_16.axis_register_slice_v1_1_16_axis_register_slice(fast__1)
+# Loading axis_infrastructure_v1_1_0.axis_infrastructure_v1_1_0_util_axis2vector(fast__1)
+# Loading axis_register_slice_v1_1_16.axis_register_slice_v1_1_16_axisc_register_slice(fast__1)
+# Loading axis_infrastructure_v1_1_0.axis_infrastructure_v1_1_0_util_vector2axis(fast__1)
+# Loading work.aurora_64b66b_0_FRAME_CHECK(fast)
+# Loading work.glbl(fast)
+# 1
+# 1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+add wave -position insertpoint sim:/aurora_64b66b_0_TB/d1/*
+add wave -position insertpoint sim:/aurora_64b66b_0_TB/d2/*
+run -all
+# Causality operation skipped due to absence of debug database file
+# End time: 15:48:07 on Aug 10,2018, Elapsed time: 0:21:33
+# Errors: 0, Warnings: 1

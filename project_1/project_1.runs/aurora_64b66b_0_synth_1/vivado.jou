@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Aug  9 15:26:34 2018
+# Process ID: 24332
+# Current directory: /home/callie/Desktop/xilinxauroratest/project_1/project_1.runs/aurora_64b66b_0_synth_1
+# Command line: vivado -log aurora_64b66b_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source aurora_64b66b_0.tcl
+# Log file: /home/callie/Desktop/xilinxauroratest/project_1/project_1.runs/aurora_64b66b_0_synth_1/aurora_64b66b_0.vds
+# Journal file: /home/callie/Desktop/xilinxauroratest/project_1/project_1.runs/aurora_64b66b_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source aurora_64b66b_0.tcl -notrace

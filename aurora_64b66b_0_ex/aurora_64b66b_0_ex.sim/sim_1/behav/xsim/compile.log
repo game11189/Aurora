@@ -1,0 +1,114 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_2/sim/aurora_64b66b_0_reg_slice_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_reg_slice_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_0/sim/aurora_64b66b_0_reg_slice_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_reg_slice_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_aurora_lane.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_AURORA_LANE
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_startup_fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_RX_STARTUP_FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_startup_fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_TX_STARTUP_FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/aurora_64b66b_0_axi_to_drp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_AXI_TO_DRP
+WARNING: [VRFC 10-998] macro DLY redefined [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/aurora_64b66b_0_axi_to_drp.v:74]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_standard_cc_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_STANDARD_CC_MODULE
+WARNING: [VRFC 10-998] macro DLY redefined [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_standard_cc_module.v:88]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_reset_logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_RESET_LOGIC
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cdc_sync.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_cdc_sync
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_rst_sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0_core.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_core
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_axi_to_ll.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_AXI_TO_LL
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_block_sync_sm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_BLOCK_SYNC_SM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_reset_cbcc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_common_reset_cbcc
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_logic_cbcc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_common_logic_cbcc
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cbcc_gtx_6466.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_CLOCK_CORRECTION_CHANNEL_BONDING
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_CH_BOND_MASTER
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_CH_BOND_SLAVE
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_err_detect.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_CHANNEL_ERR_DETECT
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_init_sm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_CHANNEL_INIT_SM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ch_bond_code_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_CHANNEL_BOND_GEN
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_descrambler.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_DESCRAMBLER_64B66B
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_err_detect.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_ERR_DETECT
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_global_logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_GLOBAL_LOGIC
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_WRAPPER
+INFO: [VRFC 10-2458] undeclared symbol gt_cpllreset_i, assumed default net type wire [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_wrapper.v:542]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_polarity_check.v" into library xil_defaultlib
+WARNING: [VRFC 10-998] macro DLY redefined [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_polarity_check.v:74]
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_POLARITY_CHECK
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_lane_init_sm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_LANE_INIT_SM
+WARNING: [VRFC 10-998] macro DLY redefined [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_lane_init_sm.v:97]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ll_to_axi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_LL_TO_AXI
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_multi_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_MULTI_GT
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll_datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_RX_LL_DATAPATH
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_RX_LL
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_width_conversion.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_WIDTH_CONVERSION
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_scrambler.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_SCRAMBLER_64B66B
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_dec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_SYM_DEC
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_SYM_GEN
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_gtx.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_GTX
+WARNING: [VRFC 10-998] macro DLY redefined [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_gtx.v:80]
+INFO: [VRFC 10-2458] undeclared symbol rxheader_float_i, assumed default net type wire [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_gtx.v:692]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_control_sm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_TX_LL_CONTROL_SM
+WARNING: [VRFC 10-998] macro DLY redefined [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_control_sm.v:108]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_TX_LL_DATAPATH
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_TX_LL
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_cdc_sync_exdes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_cdc_sync_exdes
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_rst_sync_exdes
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_clock_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_CLOCK_MODULE
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_example_axi_to_ll.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_EXAMPLE_AXI_TO_LL
+INFO: [VRFC 10-2458] undeclared symbol LL_IP_DST_RDY_INT, assumed default net type wire [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_example_axi_to_ll.v:166]
+INFO: [VRFC 10-2458] undeclared symbol LL_IP_DST_RDY, assumed default net type wire [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_example_axi_to_ll.v:167]
+INFO: [VRFC 10-2458] undeclared symbol LL_OP_SOF, assumed default net type wire [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_example_axi_to_ll.v:201]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_example_ll_to_axi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_EXAMPLE_LL_TO_AXI
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_exdes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_exdes
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_frame_check.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_FRAME_CHECK
+INFO: [VRFC 10-2458] undeclared symbol resetUFC, assumed default net type wire [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_frame_check.v:141]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_frame_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_FRAME_GEN
+INFO: [VRFC 10-2458] undeclared symbol resetUFC, assumed default net type wire [/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_frame_gen.v:149]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_gt_common_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_gt_common_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_support
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support_reset_logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_SUPPORT_RESET_LOGIC
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_rst_sync_shared
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/imports/aurora_64b66b_0_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aurora_64b66b_0_TB

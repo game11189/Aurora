@@ -1,0 +1,1333 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.sim/sim_1/behav/modelsim
+T_opt
+!s110 1533889596
+VQA>XmBLAUG7]z6b@LOkMP1
+Z1 04 18 4 work aurora_64b66b_0_TB fast 0
+Z2 04 4 4 work glbl fast 0
+=1-000ae431a4f1-5b6d4c3a-71bbd-572a
+Z3 o-quiet -auto_acc_if_foreign -work xil_defaultlib -L axis_infrastructure_v1_1_0 -L axis_register_slice_v1_1_16 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;10.6b;65
+R0
+T_opt1
+!s110 1533889399
+VLMS@cgR4XRo0cFj0f`CQZ2
+R1
+R2
+=1-000ae431a4f1-5b6d4b76-30edf-567c
+R3
+R4
+n@_opt1
+R5
+R0
+vaurora_64b66b_0
+Z6 !s10a 1533803191
+!s110 1533888181
+!i10b 1
+!s100 ]8aA]zhUVLGc94YWH5Co41
+IZ;0a8@Y3SkK]PKA=DgFUE0
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z8 w1533803191
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0.v
+Z9 L0 70
+Z10 OL;L;10.6b;65
+r1
+!s85 0
+31
+!s108 1533888181.000000
+Z11 !s107 ../../../../imports/aurora_64b66b_0_tb.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/new/delay.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support_reset_logic.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_gt_common_wrapper.v|../../../../imports/aurora_64b66b_0_frame_gen.v|../../../../imports/aurora_64b66b_0_frame_check.v|../../../../imports/aurora_64b66b_0_exdes.v|../../../../imports/aurora_64b66b_0_example_ll_to_axi.v|../../../../imports/aurora_64b66b_0_example_axi_to_ll.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_clock_module.v|../../../../imports/aurora_64b66b_0_cdc_sync_exdes.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_datapath.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_control_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_gtx.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_gen.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_dec.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_scrambler.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_width_conversion.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll_datapath.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_multi_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ll_to_axi.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_lane_init_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_polarity_check.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_global_logic.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_err_detect.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_descrambler.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ch_bond_code_gen.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_init_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_err_detect.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cbcc_gtx_6466.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_logic_cbcc.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_reset_cbcc.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_block_sync_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_axi_to_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0_core.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cdc_sync.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_reset_logic.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_standard_cc_module.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/aurora_64b66b_0_axi_to_drp.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_startup_fsm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_startup_fsm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_aurora_lane.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_0/sim/aurora_64b66b_0_reg_slice_0.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_2/sim/aurora_64b66b_0_reg_slice_2.v|
+Z12 !s90 -64|-incr|-work|xil_defaultlib|+incdir+../../../../aurora_64b66b_0_ex.ip_user_files/ipstatic/hdl|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_2/sim/aurora_64b66b_0_reg_slice_2.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_0/sim/aurora_64b66b_0_reg_slice_0.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_aurora_lane.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_startup_fsm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_startup_fsm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/aurora_64b66b_0_axi_to_drp.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_standard_cc_module.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_reset_logic.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cdc_sync.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0_core.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_axi_to_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_block_sync_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_reset_cbcc.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_logic_cbcc.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cbcc_gtx_6466.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_err_detect.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_init_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ch_bond_code_gen.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_descrambler.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_err_detect.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_global_logic.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_polarity_check.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_lane_init_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ll_to_axi.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_multi_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll_datapath.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_width_conversion.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_scrambler.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_dec.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_gen.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_gtx.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_control_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_datapath.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0.v|../../../../imports/aurora_64b66b_0_cdc_sync_exdes.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_clock_module.v|../../../../imports/aurora_64b66b_0_example_axi_to_ll.v|../../../../imports/aurora_64b66b_0_example_ll_to_axi.v|../../../../imports/aurora_64b66b_0_exdes.v|../../../../imports/aurora_64b66b_0_frame_check.v|../../../../imports/aurora_64b66b_0_frame_gen.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_gt_common_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support_reset_logic.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/new/delay.v|../../../../imports/aurora_64b66b_0_tb.v|
+!i113 0
+Z13 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 !s92 -work xil_defaultlib +incdir+../../../../aurora_64b66b_0_ex.ip_user_files/ipstatic/hdl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vaurora_64b66b_0_AURORA_LANE
+Z15 !s10a 1533803189
+Z16 !s110 1533882378
+!i10b 1
+!s100 ZNMQV7b[ezAbn9:GQO@273
+ILPYXDUB?jfE2el7``QANk3
+R7
+R0
+Z17 w1533803189
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_aurora_lane.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_aurora_lane.v
+L0 74
+R10
+r1
+!s85 0
+31
+Z18 !s108 1533882377.000000
+Z19 !s107 ../../../../imports/aurora_64b66b_0_tb.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support_reset_logic.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_gt_common_wrapper.v|../../../../imports/aurora_64b66b_0_frame_gen.v|../../../../imports/aurora_64b66b_0_frame_check.v|../../../../imports/aurora_64b66b_0_exdes.v|../../../../imports/aurora_64b66b_0_example_ll_to_axi.v|../../../../imports/aurora_64b66b_0_example_axi_to_ll.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_clock_module.v|../../../../imports/aurora_64b66b_0_cdc_sync_exdes.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_datapath.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_control_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_gtx.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_gen.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_dec.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_scrambler.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_width_conversion.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll_datapath.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_multi_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ll_to_axi.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_lane_init_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_polarity_check.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_global_logic.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_err_detect.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_descrambler.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ch_bond_code_gen.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_init_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_err_detect.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cbcc_gtx_6466.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_logic_cbcc.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_reset_cbcc.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_block_sync_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_axi_to_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0_core.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cdc_sync.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_reset_logic.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_standard_cc_module.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/aurora_64b66b_0_axi_to_drp.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_startup_fsm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_startup_fsm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_aurora_lane.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_0/sim/aurora_64b66b_0_reg_slice_0.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_2/sim/aurora_64b66b_0_reg_slice_2.v|
+Z20 !s90 -64|-incr|-work|xil_defaultlib|+incdir+../../../../aurora_64b66b_0_ex.ip_user_files/ipstatic/hdl|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_2/sim/aurora_64b66b_0_reg_slice_2.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_0/sim/aurora_64b66b_0_reg_slice_0.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_aurora_lane.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_startup_fsm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_startup_fsm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/aurora_64b66b_0_axi_to_drp.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_standard_cc_module.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_reset_logic.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cdc_sync.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0_core.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_axi_to_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_block_sync_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_reset_cbcc.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_logic_cbcc.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cbcc_gtx_6466.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_err_detect.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_init_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ch_bond_code_gen.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_descrambler.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_err_detect.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_global_logic.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_polarity_check.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_lane_init_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ll_to_axi.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_multi_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll_datapath.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_width_conversion.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_scrambler.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_dec.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_gen.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_gtx.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_control_sm.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_datapath.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll.v|../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0.v|../../../../imports/aurora_64b66b_0_cdc_sync_exdes.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_clock_module.v|../../../../imports/aurora_64b66b_0_example_axi_to_ll.v|../../../../imports/aurora_64b66b_0_example_ll_to_axi.v|../../../../imports/aurora_64b66b_0_exdes.v|../../../../imports/aurora_64b66b_0_frame_check.v|../../../../imports/aurora_64b66b_0_frame_gen.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_gt_common_wrapper.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support.v|../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support_reset_logic.v|../../../../imports/aurora_64b66b_0_tb.v|
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@a@u@r@o@r@a_@l@a@n@e
+vaurora_64b66b_0_AXI_TO_DRP
+R15
+R16
+!i10b 1
+!s100 IL4zoX7mg0W6Q>dedNj[W3
+I>47VEL2ReNgkgER_egf5?1
+R7
+R0
+R17
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/aurora_64b66b_0_axi_to_drp.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/aurora_64b66b_0_axi_to_drp.v
+Z21 L0 64
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@a@x@i_@t@o_@d@r@p
+vaurora_64b66b_0_AXI_TO_LL
+R6
+R16
+!i10b 1
+!s100 8LRNc9fSfUIoaNP0n3k1L1
+I;zj<95U^ZPPk=0C0NAfe41
+R7
+R0
+R8
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_axi_to_ll.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_axi_to_ll.v
+R21
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@a@x@i_@t@o_@l@l
+vaurora_64b66b_0_BLOCK_SYNC_SM
+R15
+R16
+!i10b 1
+!s100 M0aT5EBR^TeV[IHWgJVUW0
+IaIG<=9V@>e1M01C2aSIK43
+R7
+R0
+R17
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_block_sync_sm.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_block_sync_sm.v
+Z22 L0 63
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@b@l@o@c@k_@s@y@n@c_@s@m
+vaurora_64b66b_0_cdc_sync
+R15
+R16
+!i10b 1
+!s100 ;L`lK3lY_L^Z^aa>Flo]c2
+IK`fb;1Icd_EFfS`KmAY?C2
+R7
+R0
+R17
+Z23 8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cdc_sync.v
+Z24 F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cdc_sync.v
+L0 105
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_cdc_sync_exdes
+Z25 !s10a 1533803358
+R16
+!i10b 1
+!s100 adGjOmnD=o84d@m3ZlZGC1
+I9RmY6RG4LMZ?z3^6Xm7fW1
+R7
+R0
+Z26 w1533803358
+Z27 8../../../../imports/aurora_64b66b_0_cdc_sync_exdes.v
+Z28 F../../../../imports/aurora_64b66b_0_cdc_sync_exdes.v
+L0 106
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_CH_BOND_MASTER
+Z29 !s10a 1533803190
+R16
+!i10b 1
+!s100 ]20L5d?CK7liK=?>h6oB82
+ImgkYXa21IAjPKK]^8GF>S2
+R7
+R0
+Z30 w1533803190
+Z31 8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cbcc_gtx_6466.v
+Z32 F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_cbcc_gtx_6466.v
+L0 1305
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@c@h_@b@o@n@d_@m@a@s@t@e@r
+vaurora_64b66b_0_CH_BOND_SLAVE
+R29
+R16
+!i10b 1
+!s100 o_ljL]kM4I^L?QIXR7jLS2
+I7=>8OdJ?Q>jGmY2L?1hgf3
+R7
+R0
+R30
+R31
+R32
+L0 1454
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@c@h_@b@o@n@d_@s@l@a@v@e
+vaurora_64b66b_0_CHANNEL_BOND_GEN
+R29
+R16
+!i10b 1
+!s100 SA4ng]R7Q3h9<:40l46231
+IZ_T;i@JnnMEF@hBmK8`AW3
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ch_bond_code_gen.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ch_bond_code_gen.v
+L0 75
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@c@h@a@n@n@e@l_@b@o@n@d_@g@e@n
+vaurora_64b66b_0_CHANNEL_ERR_DETECT
+R29
+R16
+!i10b 1
+!s100 2_gOYmUziCn]4o02?[BTR0
+I_RmKC`;o=lYcn=ZoXZl5L1
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_err_detect.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_err_detect.v
+Z33 L0 73
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@c@h@a@n@n@e@l_@e@r@r_@d@e@t@e@c@t
+vaurora_64b66b_0_CHANNEL_INIT_SM
+R29
+R16
+!i10b 1
+!s100 _jZLU@2`ROoNi_[XTEHSV1
+I?`:CB?J=inW7McI;C_YTE1
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_init_sm.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_channel_init_sm.v
+L0 80
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@c@h@a@n@n@e@l_@i@n@i@t_@s@m
+vaurora_64b66b_0_CLOCK_CORRECTION_CHANNEL_BONDING
+R29
+R16
+!i10b 1
+!s100 oo?OVGh]GzGXC_YhS7_Cj3
+IUOgdi>>Yb4IPV9j7d[?Mh3
+R7
+R0
+R30
+R31
+R32
+Z34 L0 71
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@c@l@o@c@k_@c@o@r@r@e@c@t@i@o@n_@c@h@a@n@n@e@l_@b@o@n@d@i@n@g
+vaurora_64b66b_0_CLOCK_MODULE
+Z35 !s10a 1533803192
+R16
+!i10b 1
+!s100 R1XC9C`[?I?g`QEC`1Q>T2
+I<DBNF7UEO8Ol;X=1o<b6g1
+R7
+R0
+Z36 w1533803192
+8../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_clock_module.v
+F../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_clock_module.v
+Z37 L0 68
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@c@l@o@c@k_@m@o@d@u@l@e
+vaurora_64b66b_0_common_logic_cbcc
+R15
+R16
+!i10b 1
+!s100 Y5f^>9DjSbUN`j_=Q;JXE2
+IN9X1;;lOR9MM40ZF?Cik61
+R7
+R0
+R17
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_logic_cbcc.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_logic_cbcc.v
+R22
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_common_reset_cbcc
+R15
+R16
+!i10b 1
+!s100 dARRBn5>m]:EEjXJgFM4j3
+I49:mZ8o:_JZKe0]Ni3UMN3
+R7
+R0
+R17
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_reset_cbcc.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_common_reset_cbcc.v
+R22
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_core
+R15
+R16
+!i10b 1
+!s100 TP:5o=n9mmjj:ge[JR50=2
+I8b[I98@WZO7d10i^HGQCg2
+R7
+R0
+R17
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0_core.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0_core.v
+Z38 L0 72
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_DESCRAMBLER_64B66B
+R29
+R16
+!i10b 1
+!s100 B@Te@k=J6=1_ZARDiLC563
+I7>5F74U_Fz61E9hDRn5HH3
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_descrambler.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_descrambler.v
+L0 62
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@d@e@s@c@r@a@m@b@l@e@r_64@b66@b
+vaurora_64b66b_0_ERR_DETECT
+R29
+R16
+!i10b 1
+!s100 =Q]2EO6K[WK_@VcWW7k8H2
+In`9Ab3M?B`YnCEoWCPXGm1
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_err_detect.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_err_detect.v
+R37
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@e@r@r_@d@e@t@e@c@t
+vaurora_64b66b_0_EXAMPLE_AXI_TO_LL
+R25
+R16
+!i10b 1
+!s100 Yl=bCdLIA5?aDSc2ldU8i2
+Ie6M3HU;M=5b?gDaS_89zj0
+R7
+R0
+R26
+8../../../../imports/aurora_64b66b_0_example_axi_to_ll.v
+F../../../../imports/aurora_64b66b_0_example_axi_to_ll.v
+R21
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@e@x@a@m@p@l@e_@a@x@i_@t@o_@l@l
+vaurora_64b66b_0_EXAMPLE_LL_TO_AXI
+R25
+R16
+!i10b 1
+!s100 ?1P<DgWm@@[i9nmOD7[IW3
+IbB`^P@O<N=<N8dA<SE7d53
+R7
+R0
+R26
+8../../../../imports/aurora_64b66b_0_example_ll_to_axi.v
+F../../../../imports/aurora_64b66b_0_example_ll_to_axi.v
+R21
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@e@x@a@m@p@l@e_@l@l_@t@o_@a@x@i
+vaurora_64b66b_0_exdes
+Z39 !s10a 1533803357
+R16
+!i10b 1
+!s100 ORAinBbk9g63UjME?Fi3C2
+IId_`R>B5CKEHaVi:^=[@f1
+R7
+R0
+Z40 w1533803357
+8../../../../imports/aurora_64b66b_0_exdes.v
+F../../../../imports/aurora_64b66b_0_exdes.v
+R34
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_FRAME_CHECK
+R39
+R16
+!i10b 1
+!s100 gEUlj:P<>F`AFzD2?608M2
+I;C29TagUEXZN1;MXiLg[h1
+R7
+R0
+R40
+8../../../../imports/aurora_64b66b_0_frame_check.v
+F../../../../imports/aurora_64b66b_0_frame_check.v
+R38
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@f@r@a@m@e_@c@h@e@c@k
+vaurora_64b66b_0_FRAME_GEN
+R39
+R16
+!i10b 1
+!s100 WY6PWjb65QdnO08ol<GP40
+IdMIE;XN?6CoSBl1T<?MA92
+R7
+R0
+R40
+8../../../../imports/aurora_64b66b_0_frame_gen.v
+F../../../../imports/aurora_64b66b_0_frame_gen.v
+Z41 L0 69
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@f@r@a@m@e_@g@e@n
+vaurora_64b66b_0_GLOBAL_LOGIC
+R29
+R16
+!i10b 1
+!s100 NOYBBWSOo:gKz0]c<U27W2
+IM;Rg<=mlmb5Ym<?1n<^8O3
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_global_logic.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_global_logic.v
+R37
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@g@l@o@b@a@l_@l@o@g@i@c
+vaurora_64b66b_0_gt_common_wrapper
+R35
+R16
+!i10b 1
+!s100 _F79JNHge`d@o>f_K7OIW3
+IMXCLd8h]SY0C]gng]acfT1
+R7
+R0
+R36
+8../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_gt_common_wrapper.v
+F../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_gt_common_wrapper.v
+R21
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_GTX
+R6
+R16
+!i10b 1
+!s100 [LZ2z`J3_dlEXX?Y@P>8F3
+I8QJnTaoYNfBL=mC75X9@22
+R7
+R0
+R8
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_gtx.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_gtx.v
+R34
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@g@t@x
+vaurora_64b66b_0_LANE_INIT_SM
+R29
+R16
+!i10b 1
+!s100 BhEL`j132@ZPRf5Gg5l;O0
+If3[]cQO^VzKG>mC@z^9Vg1
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_lane_init_sm.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_lane_init_sm.v
+R41
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@l@a@n@e_@i@n@i@t_@s@m
+vaurora_64b66b_0_LL_TO_AXI
+R6
+R16
+!i10b 1
+!s100 5A8oKPHQE4T_9>Hc8kW7N3
+I=o4WPaE9L=joSMD9Cnj]Q2
+R7
+R0
+R8
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ll_to_axi.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_ll_to_axi.v
+R21
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@l@l_@t@o_@a@x@i
+vaurora_64b66b_0_MULTI_GT
+R29
+R16
+!i10b 1
+!s100 [_d52nCoGnP:D@H>LD;fg1
+ImOQQFA1?b7I19[S=YY15P0
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_multi_wrapper.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_multi_wrapper.v
+R21
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@m@u@l@t@i_@g@t
+vaurora_64b66b_0_POLARITY_CHECK
+R29
+R16
+!i10b 1
+!s100 COQ>FT3oCM7oag7`QT`0z1
+IIaJ^z`7JWjM3TzbeI1?1m3
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_polarity_check.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_polarity_check.v
+L0 77
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@p@o@l@a@r@i@t@y_@c@h@e@c@k
+vaurora_64b66b_0_reg_slice_0
+!s10a 1533803423
+R16
+!i10b 1
+!s100 Y^B0IPh_2Oc^>dNOR5e@K1
+I6Tg5GKfJlOoznbJD7bc8m3
+R7
+R0
+w1533803423
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_0/sim/aurora_64b66b_0_reg_slice_0.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_0/sim/aurora_64b66b_0_reg_slice_0.v
+Z42 L0 56
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_reg_slice_2
+!s10a 1533803424
+R16
+!i10b 1
+!s100 9;5Q3N`G@Nl8IAJ>6D[mA0
+ICTjfB>TVXTKn<nzFKYheo3
+R7
+R0
+w1533803424
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_2/sim/aurora_64b66b_0_reg_slice_2.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0_reg_slice_2/sim/aurora_64b66b_0_reg_slice_2.v
+R42
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_RESET_LOGIC
+R15
+R16
+!i10b 1
+!s100 :g>>i2]31>;A_jigd7:;]0
+IA4ZZDdS:Sf?91b?W<a[5c2
+R7
+R0
+R17
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_reset_logic.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_reset_logic.v
+R22
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@r@e@s@e@t_@l@o@g@i@c
+vaurora_64b66b_0_rst_sync
+R15
+R16
+!i10b 1
+!s100 EkAM?JC@^Yo728[1Z:h5`2
+IV[zMaI[D@:ck29o>gWa:@3
+R7
+R0
+R17
+R23
+R24
+L0 539
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_rst_sync_exdes
+R25
+R16
+!i10b 1
+!s100 ZMZa>lM9Q;YKlXI?Y`8l`0
+I967BP:GUQbOaHY912734V0
+R7
+R0
+R26
+R27
+R28
+L0 541
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_rst_sync_shared
+R35
+R16
+!i10b 1
+!s100 d^MEIbV?_haeXXUDcbB8R2
+IKO<czJ3jEn>1G?fH480f=2
+R7
+R0
+R36
+Z43 8../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support_reset_logic.v
+Z44 F../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support_reset_logic.v
+L0 139
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_RX_LL
+R29
+R16
+!i10b 1
+!s100 _@@fQ9h@F@:513@KffzgN2
+I7HmYm=HP?;CNZ1bm1XLbN0
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll.v
+R41
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@r@x_@l@l
+vaurora_64b66b_0_RX_LL_DATAPATH
+R29
+R16
+!i10b 1
+!s100 ]=iPhD6f0GEoVlbH9dW682
+ImiAn:zGMa_>2NL1dMPH7V1
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll_datapath.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_ll_datapath.v
+R9
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@r@x_@l@l_@d@a@t@a@p@a@t@h
+vaurora_64b66b_0_RX_STARTUP_FSM
+R15
+R16
+!i10b 1
+!s100 c6gB9MfzHWZ8TlLf^`R<C1
+Iz]o<jS[D=;LnXjc1Bb8DP3
+R7
+R0
+R17
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_startup_fsm.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_rx_startup_fsm.v
+Z45 L0 60
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@r@x_@s@t@a@r@t@u@p_@f@s@m
+vaurora_64b66b_0_SCRAMBLER_64B66B
+R29
+R16
+!i10b 1
+!s100 ;BAje;[1gj7H`?6X1OOTB0
+IaW`NONDBaENaQKj5nZoPc3
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_scrambler.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_64b66b_scrambler.v
+R22
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@s@c@r@a@m@b@l@e@r_64@b66@b
+vaurora_64b66b_0_STANDARD_CC_MODULE
+R15
+R16
+!i10b 1
+!s100 n0g7g@67f34WaGEF>EcoA0
+IKUW`W0eHzC[^@R^F00Wj?2
+R7
+R0
+R17
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_standard_cc_module.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_standard_cc_module.v
+R34
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@s@t@a@n@d@a@r@d_@c@c_@m@o@d@u@l@e
+vaurora_64b66b_0_support
+R35
+R16
+!i10b 1
+!s100 0GZbg98S`nIl@7^RTNO@92
+IAN5d9dn]3RC8[I]6CEQl20
+R7
+R0
+R36
+8../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support.v
+F../../../../aurora_64b66b_0_ex.srcs/shared_logic/aurora_64b66b_0_support.v
+L0 67
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+vaurora_64b66b_0_SUPPORT_RESET_LOGIC
+R35
+R16
+!i10b 1
+!s100 PkfO4kl2^`P92F92OHkkB1
+Ik;kCh@b`Ba9[UjnKY4g100
+R7
+R0
+R36
+R43
+R44
+R22
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@s@u@p@p@o@r@t_@r@e@s@e@t_@l@o@g@i@c
+vaurora_64b66b_0_SYM_DEC
+R29
+R16
+!i10b 1
+!s100 WNH0BOKDXjI2I3h8DXGX01
+Ig=L>bXGKd:9j;H;V2d`V>1
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_dec.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_dec.v
+R33
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@s@y@m_@d@e@c
+vaurora_64b66b_0_SYM_GEN
+R29
+R16
+!i10b 1
+!s100 g>:jPlcnTzag3oj6KCab:2
+I<dbg`JOI@T2BV3aLUhBG80
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_gen.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_sym_gen.v
+R38
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@s@y@m_@g@e@n
+vaurora_64b66b_0_TB
+Z46 !s110 1533891510
+!i10b 1
+!s100 46jH;84WYPcPBT@k:m9;;2
+Iib1nZ@FL:kK6k6[K>TWRe1
+R7
+R0
+w1533891507
+8../../../../imports/aurora_64b66b_0_tb.v
+F../../../../imports/aurora_64b66b_0_tb.v
+R38
+R10
+r1
+!s85 0
+31
+Z47 !s108 1533891510.000000
+R11
+R12
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@t@b
+vaurora_64b66b_0_TX_LL
+R6
+R16
+!i10b 1
+!s100 dW4ZKTPj?D?S6=g1;Zg>e1
+IO4kIJAb?X[6d=UGC[^VhC0
+R7
+R0
+R8
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll.v
+R34
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@t@x_@l@l
+vaurora_64b66b_0_TX_LL_CONTROL_SM
+R6
+R16
+!i10b 1
+!s100 l@GlFgmeWLJQLizDiF1h21
+I_^?G08cSdXcV7L@K6c=4I0
+R7
+R0
+R8
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_control_sm.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_control_sm.v
+R34
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@t@x_@l@l_@c@o@n@t@r@o@l_@s@m
+vaurora_64b66b_0_TX_LL_DATAPATH
+R6
+R16
+!i10b 1
+!s100 o;TbSZRnTM2IajWj^AnMR3
+IzGF;Y958WM;XhN0HN@E_43
+R7
+R0
+R8
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_datapath.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_ll_datapath.v
+R9
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@t@x_@l@l_@d@a@t@a@p@a@t@h
+vaurora_64b66b_0_TX_STARTUP_FSM
+R15
+R16
+!i10b 1
+!s100 70KMg^CZ>o5]gfj3QoWP63
+I7gmbihenSeU9;;L^8=P:h3
+R7
+R0
+R17
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_startup_fsm.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_tx_startup_fsm.v
+R45
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@t@x_@s@t@a@r@t@u@p_@f@s@m
+vaurora_64b66b_0_WIDTH_CONVERSION
+R29
+R16
+!i10b 1
+!s100 S[dZQhhMYQgd`DN<hd6I=0
+I^[ElJa1K>1fmSJQmJ3SgG2
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_width_conversion.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/src/aurora_64b66b_0_width_conversion.v
+L0 66
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@w@i@d@t@h_@c@o@n@v@e@r@s@i@o@n
+vaurora_64b66b_0_WRAPPER
+R29
+R16
+!i10b 1
+!s100 QW<AAObmTz9nQnYCdk34i2
+I4f`d^aiAVY4km^c;@Z39a0
+R7
+R0
+R30
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_wrapper.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/ip/aurora_64b66b_0/aurora_64b66b_0/example_design/gt/aurora_64b66b_0_wrapper.v
+L0 65
+R10
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R13
+R14
+R4
+naurora_64b66b_0_@w@r@a@p@p@e@r
+vdelay
+!s10a 1533890420
+!s110 1533890889
+!i10b 1
+!s100 j^cLBZP9=AU0EVm2Q;T4_2
+IAhI3kQMn4U4_VPg61_=lA0
+R7
+R0
+w1533890420
+8../../../../aurora_64b66b_0_ex.srcs/sources_1/new/delay.v
+F../../../../aurora_64b66b_0_ex.srcs/sources_1/new/delay.v
+L0 23
+R10
+r1
+!s85 0
+31
+!s108 1533890889.000000
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vglbl
+R46
+!i10b 1
+!s100 JWZ^meD<P7inSF0<1SiO32
+IAl?5;D^:bf?I5A^M>WzmU1
+R7
+R0
+w1522801934
+8glbl.v
+Fglbl.v
+L0 6
+R10
+r1
+!s85 0
+31
+R47
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 0
+R13
+R4

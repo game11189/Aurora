@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Fri Aug 10 10:17:32 2018
+# Process ID: 12015
+# Current directory: /home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.sim/sim_1/behav/xsim/xsim.dir/aurora_64b66b_0_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/callie/Desktop/xilinxauroratest/aurora_64b66b_0_ex/aurora_64b66b_0_ex.sim/sim_1/behav/xsim/xsim.dir/aurora_64b66b_0_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00.55 ; elapsed = 00:00:06 . Memory (MB): peak = 293.164 ; gain = 0.000 ; free physical = 381 ; free virtual = 7223
+INFO: [Common 17-206] Exiting Webtalk at Fri Aug 10 10:17:37 2018...

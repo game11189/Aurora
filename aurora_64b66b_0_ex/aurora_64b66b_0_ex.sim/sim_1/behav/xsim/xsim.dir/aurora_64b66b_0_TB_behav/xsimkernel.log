@@ -1,0 +1,7 @@
+Running: xsim.dir/aurora_64b66b_0_TB_behav/xsimk -simmode gui -wdb aurora_64b66b_0_TB_behav.wdb -simrunnum 0 -socket 52819
+Design successfully loaded
+Design Loading Memory Usage: 344224 KB (Peak: 344224 KB)
+Design Loading CPU Usage: 880 ms
+Simulation completed
+Simulation Memory Usage: 424928 KB (Peak: 491496 KB)
+Simulation CPU Usage: 228060 ms
